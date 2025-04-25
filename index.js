@@ -1,4 +1,4 @@
-export default function EvoLandingPage() {
+export default function HomePage() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-start bg-white text-gray-900 p-6">
       <header className="w-full flex justify-center mt-8">
